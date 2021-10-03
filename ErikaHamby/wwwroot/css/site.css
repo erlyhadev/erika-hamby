@@ -77,8 +77,28 @@ h2, h3 {
     margin-bottom: 0.75rem;
 }
 
-.jumbotron p {
+.navbar-brand:hover {
+    color: #00bc8c !important;
+}
+
+.nav-link {
+    color: #ffffff !important;
+}
+
+.nav-link:hover {
+    color: #00bc8c !important;
+}
+
+.bg-container {
+    background-color: #303030 !important;
+}
+
+.index-container p {
     font-size: 1.5rem;
+}
+
+.index-img {
+    text-align: right;
 }
 
 .social-icons ul li {
