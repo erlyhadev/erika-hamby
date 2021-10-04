@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  erikahamby:
+    image: ${DOCKER_REGISTRY-}erikahamby
+    build:
+      context: .
+      dockerfile: ErikaHamby/Dockerfile

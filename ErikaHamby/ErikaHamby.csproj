@@ -5,6 +5,8 @@
     <Authors>Erika Hamby</Authors>
     <Company>Erika Hamby</Company>
     <Product>ErikaHamby</Product>
+    <DockerComposeProjectPath>../docker-compose.dcproj</DockerComposeProjectPath>
+    <UserSecretsId>b1000be8-79ca-401b-b030-869324dd0726</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
